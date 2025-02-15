@@ -1,5 +1,5 @@
 ini baris satu
-ini baris dua
-ini baris tiga
+ini baris dua tiga
+
 
 tambah baris lagi
